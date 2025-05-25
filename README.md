@@ -1,4 +1,4 @@
-# DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA
+# Geosense
 
 ### Rafael de Souza Pinto - RM 555130
 ### Luis Paulo Freitas Fernandes - RM 555497
