@@ -44,7 +44,7 @@ pip install colorama
 pip install matplotlib
 pip install numpy
 ```
-##🧠 Pré-requisitos
+## 🧠 Pré-requisitos
 - Python 3.7+
 
 - Conexão com a internet
